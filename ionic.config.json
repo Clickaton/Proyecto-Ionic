@@ -1,0 +1,7 @@
+{
+  "name": "Emarket",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
